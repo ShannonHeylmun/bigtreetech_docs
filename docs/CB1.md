@@ -40,7 +40,7 @@ The BIGTREETECH CB1 is launched to provide a great solution to the insane shorta
 
 ### **40 pin GPIO**
 
-**The 40 pin GPIO on the motherboard when CB1 is used with motherboard like Manta M4P, M5P, M8P, PI4B_Adapter, etc.**
+**The 40 pin GPIO on the motherboard when CB1 is used with motherboards like Manta M4P, M5P, M8P, PI4B_Adapter, etc.**
 
 | Pin  | Signal | Description        | Pin  | Signal | Description       |
 | ---- | ------ | ------------------ | ---- | ------ | ----------------- |
@@ -263,15 +263,16 @@ Input the login name and password to enter the SSH terminal interface
 
 ​		balenaEtcher: https://www.balena.io/etcher/<br/>
 
-​		Both of the above software can be used, just choose one to download and install
+​		Either of these can be used; just choose one to download and install.
 
 3. **Format SD card**
+// Unclear. Can you use the software provided with your OS or do you need to use the linked software?
 
-​		Normally, you can format the SD card with the tools provided by the computer system. Completely format the SD card with professional SD card 		format software. https://www.sdcard.org/downloads/formatter/
+​		Normally, you can format the SD card with the tools provided by the computer system. Completely format the SD card with professional SD card format software. https://www.sdcard.org/downloads/formatter/
 
-4. **Write OS**
+5. **Write OS**
 
-5. **Raspberry Pi Imager**
+6. **Raspberry Pi Imager**
 
 ​		Insert a MicroSD into your computer.
 
